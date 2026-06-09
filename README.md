@@ -1,27 +1,46 @@
 # Enterprise Product AI Workflows
 
-Sanitized AI workflows, skills, and agent patterns for enterprise product management, retail systems, integrations, and platform modernization.
+A collection of AI-powered skills, agents, workflows, and frameworks for enterprise product management.
 
 ## Focus Areas
 
-- Enterprise product operations
-- Retail ERP workflows
-- Integration readiness
-- Product discovery
-- Requirements refinement
-- Roadmap validation
-- Release planning
-- Stakeholder communication
-- AI-enabled product delivery
+- Product Discovery
+- Solution Shaping
+- Roadmap Planning
+- Product Estimation
+- Engineering Handoffs
+- Integration Readiness
+- Release Planning
+- AI-Enabled Product Operations
 
 ## Repository Structure
 
-- `skills/` - Reusable AI skill patterns
-- `agents/` - Agent workflow definitions and role-based assistants
-- `examples/` - Sanitized examples showing inputs and outputs
-- `templates/` - Reusable templates and checklists
-- `docs/` - Notes on implementation patterns and usage
+### Skills
 
-## Note
+Reusable workflows for:
 
-This repository contains public-safe, generalized versions of enterprise product workflows. Proprietary names, customer details, internal systems, and confidential implementation details have been removed or generalized.
+- Discovery to PRD
+- Scope Reduction and MVP Definition
+- Integration Readiness Reviews
+- Roadmap Analysis and Estimation
+- Product Brief Creation
+- Solution Shaping
+
+### Agents
+
+Role-based AI collaborators including:
+
+- Lead Product Manager
+- Lead Architect
+- Senior Developer
+- Security Reviewer
+- QA Engineer
+- Research Planner
+- Market Research Analyst
+- Database Research Analyst
+
+## Purpose
+
+This repository contains sanitized, public-safe versions of enterprise product management workflows and AI agent patterns.
+
+Proprietary company information, customer details, and internal implementation specifics have been removed or generalized.
